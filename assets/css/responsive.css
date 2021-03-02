@@ -220,7 +220,7 @@
         font-size: 10px;
     }
 }
-@media screen and (max-width: 555px){
+@media screen and (max-width: 570px){
     header{
         display: flex;
         justify-content: center;
