@@ -167,7 +167,7 @@
     }
     .miniblok {
         width: 40%;
-        height: 210px;
+        height: 225px;
     }
     .projects {
         width: 80%;
@@ -189,7 +189,7 @@
     }
     .miniblok {
         width: 40%;
-        height: 200px;
+        height: 220px;
     }
     #work p{
         font-size: 12px;
@@ -309,7 +309,7 @@
 @media screen and (max-width: 376px){
     .miniblok {
         width: 90%;
-        height: 200px;
+        height: 210px;
     }
     #logo h1 {
         font-size: 16px;
