@@ -293,7 +293,7 @@
         padding: 10px;
     }
 }
-@media screen and (max-width: 430px){
+@media screen and (max-width: 450px){
     header{
         display: flex;
         justify-content: center;
