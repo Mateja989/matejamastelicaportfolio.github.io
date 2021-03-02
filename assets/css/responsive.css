@@ -1,0 +1,374 @@
+@media screen and (max-width: 1420px){
+    .miniblok{
+        margin-bottom: 20px;
+        height: 260px;
+    }
+    header{
+        top: 4%;
+    }
+    #work p{
+        font-size: 15px;
+    }
+    #me img{
+        border: 5px solid #6a68a8;
+    }
+}
+@media screen and (max-width: 1230px){
+    header{
+        border-radius: 30px;
+        padding: 16px;
+        top: 3%;
+    }
+    nav ul li{
+        font-size: 16px;
+    }
+    #logo h1{
+        font-size: 24px;
+    }
+    #header-text h2{
+        font-size: 24px;
+    }
+    #header-text p{
+        font-size: 14px;
+    }
+    .header2 h2,#work h2 {
+        font-size: 22px;
+    }
+    .block h3{
+        font-size: 18px;
+    }
+    .block i {
+        margin: 10px;
+        font-size: 40px;
+    }
+    .block p{
+        padding: 5px;
+        font-size: 14px;
+    }
+    .miniblok{
+        width: 40%;
+        margin-bottom: 20px;
+        height: 200px;
+    }
+    .flex-container{
+        align-items: center;
+    }
+    #work i{
+        margin: 5px;
+    }
+    #work h3{
+        margin-bottom: 5px;
+        font-size: 16px;
+    }
+    #work p{
+        font-size: 14px;
+    }
+
+    #about h2 {
+        font-size: 18px;
+        padding: 15px;
+    }
+    #about p {
+        margin-top: 5px;
+        font-size: 14px;
+    }
+    .projects {
+        margin-bottom: 25px;
+    }
+    #logovanje {
+        width: 80%;
+    }
+    .social ul li {
+        padding: 5px;
+        font-size: 20px;
+    }
+    .social p {
+        padding: 5px;
+        font-size: 20px;}
+    #logovanje {
+            width: 80%;
+        }
+    #ime, #telefon, #mail, #mssg,.submit {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 935px){
+    header{
+        top: 5%;
+    }
+    #me img{
+        border:5px solid #6a68a8;
+    }
+    nav ul li {
+        font-size: 14px;
+    }
+    #logo h1 {
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 852px){
+    header {
+        border-radius: 25px;
+        padding: 10px;
+        justify-content: center;
+        top: 3%;
+    }
+    #logo h1 {
+        font-size: 22px;
+        padding: 3px;
+    }
+    nav ul li {
+        font-size: 14px;
+        padding: 5px;
+    }
+    #header-text h2 {
+        font-size: 24px;
+    }
+    #header-text p{
+        font-size: 16px;
+    }
+    .block {
+        width: 80%;
+        margin-bottom: 30px;
+        padding: 15px;
+    }
+    .block i {
+        margin: 5px;
+        font-size: 35px;
+    }
+    .block h3{
+        font-size: 20px;
+    }
+    .centar{
+        justify-content: center;
+    }
+    #work h2{
+        padding: 22px;
+        font-size: 24px;
+    }
+   #about h2 {
+        font-size: 22px;
+        padding: 10px;
+    }
+    #about p {
+        margin-top: 0px;
+        font-size: 14px;
+    }
+    #about{
+        width: 100%;
+        text-align: center;
+    }
+    #me {
+        width: 55%;
+    }
+    #me img{
+        width: 90%;
+    }
+    .miniblok {
+        width: 40%;
+        height: 210px;
+    }
+    .projects {
+        width: 80%;
+    }
+    .social p {
+        font-size: 16px;
+    }
+    #ime, #telefon, #mail, #mssg,.submit {
+        padding: 10px;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 670px){
+    header{
+        justify-content: center;
+        width: 93%;
+        left: 2.2%;
+        top: 1%;
+    }
+    .miniblok {
+        width: 40%;
+        height: 200px;
+    }
+    #work p{
+        font-size: 12px;
+    }
+    #about h2 {
+        font-size: 18px;
+        padding: 10px;
+    }
+    #about p {
+        margin-top: 0px;
+        font-size: 10px;
+    }
+    #about{
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+    }
+    #me {
+        width: 45%;
+    }
+    #me img{
+        width: 92%;
+    }
+    .centar2{
+        justify-content: center;
+    }
+    .description p {
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 555px){
+    header{
+        display: flex;
+        justify-content: center;
+        width: 90%;
+        top: 3%;
+        left: 3%;
+    }
+    #logo h1 {
+        font-size: 18px;
+        padding: 2px;
+    }
+    nav ul li {
+        font-size: 12px;
+        margin-right: 15px;
+    }
+    #header-text{
+        width: 100%;
+        margin-top: 30%;
+        margin-bottom: 20%;
+    }
+    #header-text p {
+        font-size: 12px;
+    }
+    #header-text h2 {
+        font-size: 22px;
+        padding: 5px;
+    }
+    #work h2,.header2 h2{
+        font-size: 18px;
+    }
+    .block h3 {
+        font-size: 16px;
+    }
+    .block p {
+        font-size: 12px;
+    }
+    .block i,.miniblok i {
+        font-size: 28px;
+    }
+    .miniblok {
+        width: 90%;
+        height: 150px;
+    }
+    #me {
+        width: 50%;
+    }
+    #about {
+        width: 90%;
+        text-align: center;
+    }
+    #about p{
+        font-size: 12px;
+    }
+    .projects{
+        width: 90%;
+    }
+    #log{
+        width: 90%;
+    }
+    footer i{
+        font-size: 16px;
+    }
+    footer p{
+        font-size: 16px;
+    }
+    .centar2{
+        justify-content: center;
+    }
+    .header2{
+        padding: 10px;
+    }
+}
+@media screen and (max-width: 430px){
+    header{
+        display: flex;
+        justify-content: center;
+        width: 90%;
+        top: 3%;
+        left: 3%;
+    }
+    nav ul li {
+        font-size: 10px;
+        margin-right: 5px;
+    }
+}
+@media screen and (max-width: 376px){
+    .miniblok {
+        width: 90%;
+        height: 200px;
+    }
+    #logo h1 {
+        font-size: 16px;
+    }
+    #header-text h2 {
+        font-size: 17px;
+    }
+    .header2 h2,#about h2{
+        font-size: 16px;
+    }
+    .header2 h2{
+        padding: 2px;
+    }
+    .projects {
+        width: 100%;
+    }
+    #log{
+        width: 100%;
+    }
+    #me{
+        width: 60%;
+        margin-bottom: 10px;
+    }
+    #about{
+        width: 100%;
+    }
+    #work h2{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 340px){
+    header{
+        left: 1%;
+    }
+    #header-text h2 {
+        font-size: 14px;
+    }
+    .header2 h2{
+        padding: 2px;
+    }
+    #log input{
+        font-size: 10px;
+    }
+    .social ul li {
+        font-size: 20px;
+    }
+    .social p{
+        font-size: 12px;
+    }
+    .description p{
+        font-size: 5px;
+    }
+    nav ul li {
+        font-size: 10px;
+        margin-right: 3px;
+    }
+}
+@media screen and (max-width: 281px){
+    nav ul li{
+        font-size: 8px;
+    }
+}
